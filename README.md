@@ -130,10 +130,10 @@ The battery characteristics to be monitored include the detection of battery typ
 | Bluetooth Module (HC 05)  | 250  |
 | Buzzer  | 20  |
 | Push Buttons (x3)  | 50   |
-| Li ion Battery  | 270  |
+| Li-ion Battery  | 270  |
 | PCB designing  | 250  |
 | 3D printed Casing  | 200  |
-| Net Expected Cost  | 3090  |
+| Net Expected Cost  | <b>3090</b>  |
 
 ## Applications
 <p align="justify">
